@@ -1,0 +1,6 @@
+.RANDOM BGM.pyw selects a random file from the folder (needs python to work).
+Although you will have to go into the code and change line '3' to the path of the folder.
+
+Use the KHINSIDER PYTHON SCRIPT to download whole OSTs from the Khinsider website.
+
+Additionally, use WINDOWS POWER TOYS - more specifically the POWERRENAME function to rename all the files at once.
